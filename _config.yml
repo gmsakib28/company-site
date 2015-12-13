@@ -1,2 +1,2 @@
-baseurl:/company-site
-exclude:['README.md']
+baseurl: /company-site
+exclude: ['README.md']
