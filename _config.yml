@@ -1,0 +1,2 @@
+baseurl:/company-site
+exclude:['README.md']
